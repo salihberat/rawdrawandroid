@@ -98,7 +98,7 @@ If you're developing in Windows Subsystem for Linux (WSL), follow the "Steps for
 
 ### Extra note for actually deploying to device in Windows
 
-In order to push the APK to your phone, you need `adb` installed in Windows as well.  You can do that by getting the full Android Studio from https://developer.android.com/studio#downloads or directly https://dl.google.com/android/repository/android-ndk-r28-beta2-windows.zip. Installing the full Android Studio is easier, but you can also get the "Command line tools only" and install `adb` from there.  The steps below outline how to do this with the direct link.
+In order to push the APK to your phone, you need `adb` installed in Windows as well.  You can do that by getting the full Android Studio from https://developer.android.com/studio#downloads or directly https://dl.google.com/android/repository/platform-tools_r24.0.4-windows.zip. Installing the full Android Studio is easier, but you can also get the "Command line tools only" and install `adb` from there.  The steps below outline how to do this with the direct link.
 
 ### Rest of steps
 
